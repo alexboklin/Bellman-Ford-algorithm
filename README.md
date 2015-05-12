@@ -3,13 +3,13 @@
 This script computes the cost of the cheapest paths from a starting node to all other nodes in a directed graph using the The Bellman-Ford algorithm.
 The input file should have the following format:
 
-number of vertices
+[number_of_nodes]
 
-start_vertex end_vertex cost
+[start_vertex] [end_vertex] [cost]
 
-start_vertex end_vertex cost
+[start_vertex] [end_vertex] [cost]
 
-start_vertex end_vertex cost
+[start_vertex] [end_vertex] [cost]
 
 ...
 
